@@ -1,0 +1,292 @@
+{
+    "name": "Nauman Yameen",
+    "description": "Mobile App Developer",
+    "subDescription": "Flutter & Firebase Enthusiast",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/theDeveloper574",
+            "icon": {"codePoint": "0xefb7", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "Twitter",
+            "url": "https://x.com/han_Paata_Hai?s=08",
+            "icon": {"codePoint": "0xf0ea", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/noman-yameen",
+            "icon": {"codePoint": "0xeffb", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "nomanyameen12w@gmail.com",
+            "url": "mailto:nomanyameen12w@gmail.com",
+            "icon": {"codePoint": "0xeaad", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "+92 3063870558",
+            "url": "tel:+923063870558",
+            "icon": {"codePoint": "0xecbb", "fontFamily": "FontAwesome"}
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url":
+            "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+        },
+        {
+            "languageCode": "fr",
+            "url":
+            "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+        }
+    ],
+    "aboutDescription":
+    "Hi, I'm Nauman Yameen, a Flutter developer with two years of hands-on experience building intuitive, efficient, and feature-rich mobile applications.\nMy expertise includes designing user interfaces, managing state effectively, integrating APIs, and ensuring optimal app performance.",
+    "experiences": [
+        {
+            "role": "Mobile App Developer | Internee",
+            "company": "Pakistan It Solution",
+            "description":
+            "Develop an offline-first POS (Point of Sale) app for client, enabling technical experts to process transactions and track inventory while offline. Implement APIs for real-time data sync and communication with the central system when back online. Integrate user authentication for secure login and user-specific access.",
+            "isPresent": false,
+            "startYear": 2021,
+            "endMonth": 9,
+            "endYear": 2022,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                }
+
+            ],
+            "links": [
+                {"url": "https:erp.live/", "display": "Erp Live"}
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Envoy Soft",
+            "description":"I specialize in developing product-based applications using Flutter, Firebase, and local storage to deliver robust, scalable, and user-centric solutions. My apps leverage Firebase for backend services, including secure user authentication, cloud-based data storage, and real-time communication, ensuring seamless data management and connectivity. Local storage enhances user experience by enabling offline access to critical data, while Firebase Analytics provides actionable insights into user behavior for data-driven improvements. Additionally, Firebase Crashlytics allows for proactive error detection and rapid issue resolution, ensuring app stability and a superior user experience. Through API integration and optimized service flows, my products deliver smooth, responsive interactions for diverse use cases.",
+            "startYear": 2023,
+            "startMonth": 8,
+            "endYear": 2024,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {"assetName": "assets/icons/other/firebase.svg"}
+                }
+            ],
+            "links": [
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.fullbatteryalarm",
+                    "display": "Full Battery Alarm"
+                },
+                {
+                    "url":
+                    "https://apps.apple.com/us/app/alarm-clock-wake-me-up-mission/id6477271201",
+                    "display": "Alarm Woke up Mission"
+                },
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.fakephonecall",
+                    "display": "Fake Call video"
+                },
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.pranksoundsfakecall",
+                    "display": "Prank Sound"
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Digit Innovating Future",
+            "description":
+            "Develop Service-based apps built with Flutter, Firebase, Supabase, and local storage are perfect for efficient service delivery and real-time user interactions. Firebase and Supabase handle backend services, including user authentication, data storage, and real-time communication, while local storage ensures offline access to important data. With integrated APIs, service requests and updates are processed seamlessly.",
+            "startYear": 2024,
+            "isPresent": true,
+            "startMonth": 8,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {"assetName": "assets/icons/other/firebase.svg"}
+                },
+                {
+                    "name": "Supabase",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://digit-ims.web.app/",
+                    "display": "Ims (Inventory Management System)"
+                },
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=pk.digit.almuallim",
+                    "display": "AI-Muallim"
+                }
+            ]
+        }
+    ],
+    "present": "Present",
+    "projects": [
+        {
+            "name": "Future Invest",
+            "description":
+            "This open-source project enables anyone to manage and grow their investments with ease. Built using Flutter, it follows a provider-based architecture with a feature-first approach for a clean and scalable structure. The app is fully responsive, supports real-time data updates, and offers a secure, user-friendly interface.",
+            "url": "https://github.com/theDeveloper574/makeMoney#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/Future Invest.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                }
+            ]
+        },
+        {
+            "name": "Chat-Cy",
+            "description":
+            "Chat-Cy is a dynamic two-way communication app powered by Firebase services, enabling seamless real-time messaging and high-quality audio/video calls. Designed for efficiency and reliability, it ensures secure user authentication, smooth interaction, and instant connectivity for users worldwide.",
+            "url": "https://github.com/theDeveloper574/Chatcy#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/chat-cy.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {"assetName": "assets/icons/other/firebase.svg"}
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow API",
+            "description":
+            "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
+            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-api.png",
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/nodejs.svg"
+                    }
+                },
+                {
+                    "name": "Express",
+                    "icon": {
+                        "assetName": "assets/icons/other/express-js.svg",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/typescript.svg"
+                    }
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mongodb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "nativeName": "English",
+            "icon": {"assetName": "assets/icons/flags/united-states-of-america.svg"}
+        },
+        {
+            "code": "fr",
+            "name": "French",
+            "nativeName": "Français",
+            "icon": {"assetName": "assets/icons/flags/france.svg"}
+        }
+    ],
+    "bottomBanner": {
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/theDeveloper574/portfolio#readme"
+    },
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown"
+}

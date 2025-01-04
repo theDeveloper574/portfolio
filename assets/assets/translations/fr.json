@@ -1,0 +1,250 @@
+{
+    "name": "Nauman Yameen",
+    "description": "Développeur d'applications mobiles",
+    "subDescription": "Passionné de Flutter et Firebase",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/theDeveloper574",
+            "icon": {"codePoint": "0xefb7", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "Twitter",
+            "url": "https://x.com/han_Paata_Hai?s=08",
+            "icon": {"codePoint": "0xf0ea", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/noman-yameen",
+            "icon": {"codePoint": "0xeffb", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "nomanyameen12w@gmail.com",
+            "url": "mailto:nomanyameen12w@gmail.com",
+            "icon": {"codePoint": "0xeaad", "fontFamily": "FontAwesome"}
+        },
+        {
+            "tooltip": "+92 3063870558",
+            "url": "tel:+923063870558",
+            "icon": {"codePoint": "0xecbb", "fontFamily": "FontAwesome"}
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url":
+            "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+        },
+        {
+            "languageCode": "fr",
+            "url":
+            "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+        }
+    ],
+    "aboutDescription":
+    "Bonjour, je suis Nauman Yameen, développeur Flutter avec deux ans d'expérience pratique dans la création d'applications mobiles intuitives, efficaces et riches en fonctionnalités. Mon expertise comprend la conception d'interfaces utilisateur, la gestion efficace des états, l'intégration des API et l'optimisation des performances des applications.",
+    "experiences": [
+        {
+            "role": "Développeur d'applications mobiles | Stagiaire",
+            "company": "Pakistan IT Solution",
+            "description":
+            "Développer une application POS (Point de Vente) hors ligne pour un client, permettant aux experts techniques de traiter les transactions et de suivre les stocks hors ligne. Implémenter des API pour une synchronisation des données en temps réel et une communication avec le système central une fois en ligne. Intégrer l'authentification utilisateur pour une connexion sécurisée et un accès spécifique aux utilisateurs.",
+            "isPresent": false,
+            "startYear": 2021,
+            "endMonth": 9,
+            "endYear": 2022,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                }
+            ],
+            "links": [
+                {"url": "https:erp.live/", "display": "Erp Live"}
+            ]
+        },
+        {
+            "role": "Développeur d'applications mobiles",
+            "company": "Envoy Soft",
+            "description": "Je me spécialise dans le développement d'applications orientées produits en utilisant Flutter, Firebase et le stockage local pour offrir des solutions robustes, évolutives et centrées sur l'utilisateur. Mes applications exploitent Firebase pour les services backend, y compris l'authentification sécurisée des utilisateurs, le stockage de données dans le cloud et la communication en temps réel, garantissant une gestion des données fluide et une connectivité optimale. Le stockage local améliore l'expérience utilisateur en permettant un accès hors ligne aux données critiques, tandis que Firebase Analytics fournit des informations exploitables sur le comportement des utilisateurs pour des améliorations basées sur les données. De plus, Firebase Crashlytics permet une détection proactive des erreurs et une résolution rapide des problèmes, assurant la stabilité de l'application et une expérience utilisateur supérieure. Grâce à l'intégration d'API et à des flux de services optimisés, mes produits offrent des interactions fluides et réactives pour divers cas d'utilisation.",
+            "startYear": 2023,
+            "startMonth": 8,
+            "endYear": 2024,
+            "endMonth": 8,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {"assetName": "assets/icons/other/firebase.svg"}
+                }
+            ],
+            "links": [
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.fullbatteryalarm",
+                    "display": "Alarme de batterie complète"
+                },
+                {
+                    "url":
+                    "https://apps.apple.com/us/app/alarm-clock-wake-me-up-mission/id6477271201",
+                    "display": "Mission de réveil"
+                },
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.fakephonecall",
+                    "display": "Appel vidéo faux"
+                },
+                {
+                    "url":
+                    "https://play.google.com/store/apps/details?id=com.pranksoundsfakecall",
+                    "display": "Son de farce"
+                }
+            ]
+        }
+    ],
+    "present": "Présent",
+    "projects": [
+        {
+            "name": "Future Invest",
+            "description":
+            "Ce projet open-source permet à quiconque de gérer et de développer facilement ses investissements. Construit avec Flutter, il suit une architecture basée sur le provider avec une approche centrée sur les fonctionnalités pour une structure propre et évolutive. L'application est entièrement responsive, prend en charge les mises à jour des données en temps réel et offre une interface utilisateur sécurisée et conviviale.",
+            "url": "https://github.com/theDeveloper574/makeMoney#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/Future Invest.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                }
+            ]
+        },
+        {
+            "name": "Chat-Cy",
+            "description":
+            "Chat-Cy est une application de communication bidirectionnelle dynamique utilisant les services Firebase, permettant des messages en temps réel et des appels audio/vidéo de haute qualité. Conçue pour l'efficacité et la fiabilité, elle garantit une authentification utilisateur sécurisée, une interaction fluide et une connectivité instantanée pour les utilisateurs du monde entier.",
+            "url": "https://github.com/theDeveloper574/Chatcy#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/chat-cy.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {"assetName": "assets/icons/other/dart.svg"}
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {"assetName": "assets/icons/other/firebase.svg"}
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow API",
+            "description":
+            "Learn Flow est un projet collaboratif visant à créer une solution qui connecte étudiants et enseignants. Cette API REST sert d'interface pour les différents clients du projet, notamment Android, iOS et Web. Elle offre notamment des capacités d'authentification avec JWT.",
+            "url": "https://github.com/AladdineDev/learnflow-api#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-api.png",
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/nodejs.svg"
+                    }
+                },
+                {
+                    "name": "Express",
+                    "icon": {
+                        "assetName": "assets/icons/other/express-js.svg",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/typescript.svg"
+                    }
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mongodb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        }
+    ],
+
+    "languages": [
+        {
+            "code": "en",
+            "name": "Anglais",
+            "nativeName": "English",
+            "icon": {"assetName": "assets/icons/flags/united-states-of-america.svg"}
+        },
+        {
+            "code": "fr",
+            "name": "Français",
+            "nativeName": "Français",
+            "icon": {"assetName": "assets/icons/flags/france.svg"}
+        }
+    ],
+    "bottomBanner": {
+        "message": "Portefeuille open source -",
+        "displayLink": "Forkez-le",
+        "linkUrl": "https://github.com/theDeveloper574/portfolio#readme"
+    },
+    "portfolio": "Portefeuille",
+    "homeSectionTitle": "Accueil",
+    "aboutSectionTitle": "À propos",
+    "aboutSectionTitleAlt": "À propos de moi",
+    "experienceSectionTitle": "Expérience",
+    "projectsSectionTitle": "Projets",
+    "resume": "CV",
+    "downloadResume": "Télécharger le CV",
+    "openUrlError": "Impossible d'ouvrir l'URL",
+    "unknownLanguageError": "Langue inconnue"
+}
